@@ -16,18 +16,20 @@ Je suis étudiant 👨‍🎓 à l'école Ada Tech School à Nantes depuis févr
 - **Durée :** 12 mois.
 
  🛠️ **Mes compétences :** Motivation, Adaptabilité, Sens logique, Curiosité, Esprit d'équipe, Autonomie
+ 
  ## 📝  Mes Projets
-
-### [Festivals-Pays-de-la-Loire](https://github.com/HhassenMALEK/Festivals-Pays-de-la-Loire.git)
-- **Description**: Développement d'une application de datavisualisation, manipulation
-d'une API, échange de données JSON
-- **Technologies utilisées**: HTML/CSS/JS.
 
 ### [MIMI’S MODE](https://github.com/HhassenMALEK/-Mimi-s-Mode.git)
 - **Description**: Création d'une extension de traduction d’un texte sélectionné sur un
 navigateur chrome en langage des minions, manipulation d'une API 
 - **Technologies utilisées**:JS.
 - **Méthodologies** : Scrum, Kanban, mob-programming, code review
+- 
+### [Festivals-Pays-de-la-Loire](https://github.com/HhassenMALEK/Festivals-Pays-de-la-Loire.git)
+- **Description**: Développement d'une application de datavisualisation, manipulation
+d'une API, échange de données JSON
+- **Technologies utilisées**: HTML/CSS/JS.
+- **Méthodologies** : code review
 
 ### [Moby let’s Play](https://github.com/HhassenMALEK/Moby-let-s-play.git)
 - **Description**: Création d'un jeu de reto-gaming avec le logiciel Pico-8

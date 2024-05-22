@@ -18,8 +18,7 @@ Je suis étudiant 👨‍🎓 à l'école Ada Tech School à Nantes depuis févr
  🛠️ **Mes compétences :** Motivation, Adaptabilité, Sens logique, Curiosité, Esprit d'équipe, Autonomie
  ## Mes Projets
 
-### [Festivals-Pays-de-la-Loire]([https://github.com/votre-utilisateur/projet1](https://github.com/HhassenMALEK/Festivals-Pays-de-la-Loire))
-![badge](https://img.shields.io/github/stars/votre-utilisateur/projet1?style=social) ![badge](https://img.shields.io/github/forks/votre-utilisateur/projet1?style=social)
+### [Festivals-Pays-de-la-Loire](https://github.com/HhassenMALEK/Festivals-Pays-de-la-Loire.git)
 - **Description**: Développement d'une application de datavisualisation, manipulation
 d'une API, échange de données JSON
 - **Technologies utilisées**: HTML/CSS/JS.

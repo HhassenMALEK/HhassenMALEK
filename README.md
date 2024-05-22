@@ -33,5 +33,5 @@ navigateur chrome en langage des minions, manipulation d'une API
 ## Me Contacter
 
 - **Email**: h.hassen.malek@gmail.com
-- **LinkedIn**: [MonLinkedIn]([https://www.linkedin.com/in/votreprofil](https://www.linkedin.com/in/hassenmalek/))
+- **LinkedIn**: [MonLinkedIn](https://www.linkedin.com/in/hassenmalek/)
 

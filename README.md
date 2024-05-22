@@ -23,6 +23,11 @@ Je suis étudiant 👨‍🎓 à l'école Ada Tech School à Nantes depuis févr
 d'une API, échange de données JSON
 - **Technologies utilisées**: HTML/CSS/JS.
 
+  ### [MIMI’S MODE](https://github.com/HhassenMALEK/-Mimi-s-Mode.git)
+- **Description**: Création d'une extension de traduction d’un texte sélectionné sur un
+navigateur chrome en langage des minions, manipulation d'une API 
+- **Technologies utilisées**:JS.
+
 
 
 ## Me Contacter

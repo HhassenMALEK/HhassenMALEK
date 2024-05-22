@@ -1,6 +1,6 @@
 <div align="center">
   
-# Bonjour 👋 Je m'appelle Hassen
+# Bonjour 👋 je m'appelle Hassen
 </div>
  
 <div align="center">

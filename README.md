@@ -36,7 +36,7 @@ API : Festivals - Pays de la Loire fournie par le gouvernement française. <br>
 Bibliothèque de cartographie : Leaflet une bibliothèque qui a été choisie pour créer la carte interactive. <br>
 Langages : JavaScript, HTML, CSS
 - **Équipe** : 3 membres
-- **Méthodologies** : code review
+- **Méthodologies** : Scrum, Kanban, mob-programming, code review
 
 ### [Moby let’s Play](https://github.com/HhassenMALEK/Moby-let-s-play.git)
 - **Description**: Création d'un jeu de reto-gaming avec le logiciel Pico-8

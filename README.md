@@ -29,7 +29,7 @@ Langages : JavaScript, CSS.
 - **Équipe** : 3 membres
 - **Méthodologies** : Scrum, Kanban, mob-programming, code review.
   
-### [Festivals-Pays-de-la-Loire](https://github.com/HhassenMALEK/Festivals-Pays-de-la-Loire.git)
+### [Festivals-Pays-de-la-Loire](https://hhassenmalek.github.io/Festivals-Pays-de-la-Loire/)
 - **Description**: Ce projet consiste à développer une application de datavisualisation affichant les festivals dans la région des Pays de la Loire sur une carte interactive. Les utilisateurs peuvent localiser les festivals et obtenir leurs informations de contact.
 - **Technologies utilisées**: <br>
 API : Festivals - Pays de la Loire fournie par le gouvernement française. <br>

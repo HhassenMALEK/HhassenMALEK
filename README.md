@@ -19,7 +19,7 @@ Je suis étudiant 👨‍🎓 à l'école Ada Tech School à Nantes depuis févr
  
  ## 📝  Mes Projets
 
- ### [Meubl1CO](https://github.com/HhassenMALEK/Meubl-CO)
+ ### [Meubl&CO](https://github.com/HhassenMALEK/Meubl-CO)
 - **Description**:Ce projet a été développé pour créer un site e-commerce spécialisé dans la vente de meubles,
 
 - **Technologies utilisées**:<br>
@@ -28,7 +28,7 @@ Je suis étudiant 👨‍🎓 à l'école Ada Tech School à Nantes depuis févr
 **Base de données:** MSQL<br>
 Symfony a été utilisé comme framework backend pour gérer la logique côté serveur, simplifiant ainsi la gestion des données en utilisant des objets PHP. Des entités ont été créées en PHP pour représenter les données et leurs relations, que Symfony a ensuite utilisées pour générer automatiquement la structure de la base de données. Pour permettre à ReactJS de récupérer ces données, Symfony a exposé une API via des endpoints spécifiques (URLs) configurés pour répondre à différentes actions telles que la récupération de la liste des produits. Dans ReactJS, l'API Fetch a été employée pour envoyer des requêtes HTTP vers ces endpoints Symfony. Les données JSON renvoyées par Symfony ont été ensuite traitées dynamiquement et affichées dans l'interface utilisateur de ReactJS. Les données JSON renvoyées par Symfony ont ensuite été traitées et affichées dynamiquement dans l'interface utilisateur de ReactJS.
 Pour la partie frontend, l'interface dynamique a été conçue en utilisant React pour développer des composants interactifs. Les routes ont été mises en place pour faciliter la navigation entre les différentes pages de l'application. Bootstrap a été intégré afin d'assurer un design attractif. 
-- **Équipe** :  membres
+- **Équipe** : 6 membres
 - **Méthodologies** : Scrum, Kanban, mob-programming, code review dealy.
 
 ### [MIMI’S MODE](https://github.com/HhassenMALEK/-Mimi-s-Mode.git)

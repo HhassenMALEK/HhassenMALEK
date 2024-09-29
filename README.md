@@ -9,7 +9,7 @@
 
 ## 👀 Je m'intéresse aux nouvelles technologies, la musique et les voyages !
 
-Je suis étudiant 👨‍🎓 à l'école Ada Tech School à Nantes depuis février. Je prépare un titre RNCP de Concepteur Développeur d'Applications de niveau 6 "Bac+3". Nous développons de multiples projets en équipe dans lesquels nous abordons différents langages et outils comme Javascript, PHP, React, React Native, Python, MySQ. À travers ces projets, nous enrichissons notre culture du code(clean code, POO, Mob Programming, Code review, culture du test, méthodologie Agile, cybersécurité...) de manière autonome. Nous apprenons à apprendre, ce qui me permet d'évoluer rapidement sur de nouvelles technologies.
+Après une première formation 👨‍🎓 chez Ada Tech School depuis janvier 2024, où j'ai développé de multiples projets en équipe abordant différents langages et outils tels que JavaScript, PHP,symfony, React, et MySQL, j'ai enrichi ma culture du code (clean code, POO, Mob Programming, Code review, culture du test, méthodologie Agile, cybersécurité) de manière autonome. Je poursuis actuellement un deuxième parcours chez Diginamic pour me spécialiser en Java et son écosystème Full Stack depuis septembre 2024, afin de renforcer mes compétences et approfondir ma maîtrise du développement. Je passerai mon examen RNCP de niveau 6 au mois de juin et je recherche un stage de 2 mois et demi dans une entreprise à partir de fin janvier 2025.
 
 ### Je recherche une alternance 💼 à partir d'octobre 2024.
 - **Rythme :** 4 jours en entreprise, 1 jour en formation (vendredi).

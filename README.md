@@ -11,9 +11,8 @@
 
 Après une première formation 👨‍🎓 chez Ada Tech School depuis janvier 2024, où j'ai développé de multiples projets en équipe abordant différents langages et outils tels que JavaScript, PHP,symfony, React, et MySQL, j'ai enrichi ma culture du code (clean code, POO, Mob Programming, Code review, culture du test, méthodologie Agile, cybersécurité) de manière autonome. Je poursuis actuellement un deuxième parcours chez Diginamic pour me spécialiser en Java et son écosystème Full Stack depuis septembre 2024, afin de renforcer mes compétences et approfondir ma maîtrise du développement. Je passerai mon examen RNCP de niveau 6 au mois de juin et je recherche un stage de 2 mois et demi dans une entreprise à partir de fin janvier 2025.
 
-### Je recherche une alternance 💼 à partir d'octobre 2024.
-- **Rythme :** 4 jours en entreprise, 1 jour en formation (vendredi).
-- **Durée :** 12 mois.
+### Je recherche un stage 💼 à partir 29 Janvier 2025
+- **Durée :** 2 mois et demi
 
  🛠️ **Mes compétences :** Motivation, Adaptabilité, Sens logique, Curiosité, Esprit d'équipe, Autonomie
  

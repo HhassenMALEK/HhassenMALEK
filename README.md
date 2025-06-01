@@ -9,14 +9,28 @@
 
 ## 👀 Je m'intéresse aux nouvelles technologies, la musique et les voyages !
 
-Après une première formation 👨‍🎓 chez Ada Tech School depuis janvier 2024, où j'ai développé de multiples projets en équipe abordant différents langages et outils tels que JavaScript, PHP,symfony, React, et MySQL, j'ai enrichi ma culture du code (clean code, POO, Mob Programming, Code review, culture du test, méthodologie Agile, cybersécurité) de manière autonome. Je poursuis actuellement un deuxième parcours chez Diginamic pour me spécialiser en Java et son écosystème Full Stack depuis septembre 2024, afin de renforcer mes compétences et approfondir ma maîtrise du développement. Je passerai mon examen RNCP de niveau 6 au mois de juin et je recherche un stage de 2 mois et demi dans une entreprise à partir de fin janvier 2025.
-
-### Je recherche un stage 💼 à partir 29 Janvier 2025
-- **Durée :** 2 mois et demi
+Après une première formation 👨‍🎓 chez Ada Tech School depuis janvier 2024, où j'ai développé de multiples projets en équipe abordant différents langages et outils tels que JavaScript, PHP,symfony, React, et MySQL, j'ai enrichi ma culture du code (clean code, POO, Mob Programming, Code review, culture du test, méthodologie Agile, cybersécurité) de manière autonome. Je poursuis actuellement un deuxième parcours chez Diginamic pour me spécialiser en Java et son écosystème Full Stack depuis septembre 2024, afin de renforcer mes compétences et approfondir ma maîtrise du développement. Je passerai mon examen RNCP de niveau 6 le 17 juin. 
 
  🛠️ **Mes compétences :** Motivation, Adaptabilité, Sens logique, Curiosité, Esprit d'équipe, Autonomie
  
  ## 📝  Mes Projets
+
+ ### [OuiMouve](https://github.com/HhassenMALEK/ProjetFileRouge_Gestion_De_Transport)
+- **Description** : Application de gestion de transports internes (covoiturage, véhicules de service,véhicule personnelle).
+- **Technologies utilisées** :  
+  **Back-End** : Java 24, Spring Boot, Hibernate (JPA), Maven  
+  **Front-End** : Angular  
+  **Base de données** : MariaDB, DBeaver  
+  **Architecture** : Couches DTO, BO, Mapper, Repository, Service, Controller  
+- **Fonctionnalités** :  
+  - Création, modification, annulation de covoiturages  
+  - Réservation de véhicules  
+  - Gestion des chevauchements de créneaux (véhicule/organisateur)  
+  - Recherche par filtres (date, heure, véhicule)  
+  - Exceptions métier personnalisées  
+- **Méthodologies** : Agile, TDD, Clean Code, Tests unitaires (JUnit 5, Mockito, MockMvc)  
+- **Équipe** : Equipe de 4 personnes
+
 
  ### [Meubl&CO](https://github.com/HhassenMALEK/Meubl-CO)
 - **Description**:Ce projet a été développé pour créer un site e-commerce spécialisé dans la vente de meubles,
